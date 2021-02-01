@@ -4,7 +4,4 @@
 - 🌱 I’m currently learning Rust
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RayKayy&layout=compact)
-
-
 
